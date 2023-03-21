@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.11",
+    "eslint": "^8.36.0",
+    "eslint-plugin-react-native": "^4.0.0",
     "expo": "~47.0.3",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
@@ -22,7 +24,10 @@
     "react-navigation-stack": "^2.10.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "eslint-plugin-react": "^7.32.2"
   },
   "private": true
 }
