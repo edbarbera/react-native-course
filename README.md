@@ -9,6 +9,7 @@ Repo contains 2 folders:
 - `food-rn6/` - The same as the food app above, but converted to use RN6 syntax for navigation especially.
 - `blog/` - Blog app that demonstrates more advanced state management techniques (basically Redux)
 - `json-server/` - Server that allows user to persist blogposts for the demo blog app, uses `ngrok` & `json-server`
+- `track-server/` - Basic server setup to allow persisting of tracks data to MongoDB for Tracks RN app
 
 
 #### Reference
